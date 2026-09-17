@@ -79,6 +79,32 @@ Leistungsliste. Neu erzeugen aus `assets/img/og-source.svg`:
 qlmanage -t -s 1200 -o /tmp/ska assets/img/og-source.svg && cp /tmp/ska/og-source.svg.png assets/img/og.png && sips -c 630 1200 assets/img/og.png
 ```
 
+## Deployment
+
+Das Projekt ist ein Git-Repository (Branch `main`). Der Weg live:
+
+1. **GitHub Desktop** → *Add Local Repository* → Ordner `~/ska-gebaeudeservice` → *Publish repository*.
+   Repository-Name `ska-gebaeudeservice`, **Keep this code private** abwählen oder anlassen (beides geht).
+2. Danach wird das Vercel-Projekt mit dem Repository verbunden — ab dann löst **jeder Push
+   automatisch ein Deployment aus**. Ablauf künftig: in `src/` bearbeiten → `./build.sh` →
+   in GitHub Desktop committen und pushen → Vercel baut.
+3. **Domain:** `skagebaeudeservice.de` liegt bei Porkbun. In Vercel unter *Settings → Domains*
+   eintragen, dann bei Porkbun die von Vercel genannten Records setzen. `www` per 301 auf die
+   Adresse ohne `www` umleiten.
+
+`.vercelignore` sorgt dafür, dass `src/`, `_partials/`, `_archiv/` und die Skripte **nicht**
+auf den Server gehen — öffentlich sind nur die fertigen HTML-Dateien und `assets/`.
+
+### X-Robots-Tag: noindex — bewusst gesetzt
+
+In `vercel.json` steht ein globaler Header `X-Robots-Tag: noindex`. Solange im Impressum
+`[USt-IdNr. eintragen]` und ähnliche Platzhalter stehen, soll die Seite **nicht** in Google
+auftauchen — ein unvollständiges Impressum ist genau der Fall, den Abmahnkanzleien über die
+Google-Suche finden. Die Seite ist trotzdem live und über den Link teilbar.
+
+**Sobald die Impressum- und Datenschutzfelder ausgefüllt sind:** den Eintrag
+`{ "key": "X-Robots-Tag", "value": "noindex" }` aus `vercel.json` löschen, committen, pushen.
+
 ## VOR DEM LIVEGANG
 
 1. **Impressum ausfüllen** — `src/impressum.html`: USt-IdNr. oder Kleinunternehmer-Hinweis nach
