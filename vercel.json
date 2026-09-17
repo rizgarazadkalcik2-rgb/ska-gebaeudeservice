@@ -3,6 +3,17 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.skagebaeudeservice.de"
+        }
+      ],
+      "destination": "https://skagebaeudeservice.de/",
+      "permanent": true
+    },
+    {
       "source": "/:path*",
       "has": [
         {
