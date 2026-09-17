@@ -1,0 +1,14 @@
+Projektfotos hier ablegen.
+
+Dateinamen möglichst sprechend, z. B.:
+  trasse-halle-01.jpg
+  leerrohre-rohbau-01.jpg
+  kabelverlegung-schlitz-01.jpg
+
+WICHTIG — Herkunft der Datei:
+Bitte NICHT über WhatsApp weiterleiten. WhatsApp rechnet Bilder und Videos
+stark herunter (die vorliegenden Videos haben nur 464 x 832 Pixel, das reicht
+nur für kleine Vorschaubilder). Die Originale direkt aus der Fotos-App des
+Telefons per AirDrop oder Kabel übertragen.
+
+Zielgröße für die Website: mindestens 1600 px auf der langen Kante.

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skagebaeudeservice.de/sitemap.xml

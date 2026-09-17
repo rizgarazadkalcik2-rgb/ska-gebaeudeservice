@@ -1,0 +1,120 @@
+<footer class="footer">
+  <div class="wrap">
+    <div class="footer__grid">
+      <div>
+        <a class="logo" href="index.html">
+          <img class="logo__mark" src="assets/img/logo-mark.svg" width="83" height="42" alt="" loading="lazy">
+          <span>SKA Gebäudeservice
+            <span class="logo__sub">Elektro-Montage &amp; PV</span>
+          </span>
+        </a>
+        <p style="margin-top:18px;max-width:34ch">Inhabergeführter Betrieb aus Leonberg-Höfingen. Schwerpunkt Elektro- und PV-Montage als Zuarbeit für Fachbetriebe: Trassen, Leerrohre, Kabelwege, Wallbox. Dazu Trockenbau und Objektbetreuung.</p>
+      </div>
+
+      <div>
+        <h4>Leistungen</h4>
+        <ul>
+          <li><a href="kehrwoche.html">Kehrwoche abgeben</a></li>
+          <li><a href="nachunternehmer.html">Kabeltrassen &amp; Leerrohre</a></li>
+          <li><a href="photovoltaik.html">PV-Montage</a></li>
+          <li><a href="nachunternehmer.html#wallbox">Wallbox-Montage</a></li>
+          <li><a href="leistungen.html#trockenbau">Trockenbau</a></li>
+          <li><a href="leistungen.html#hausmeister">Hausmeisterservice</a></li>
+          <li><a href="winterdienst.html">Winterdienst</a></li>
+          <li><a href="kehrwoche.html">Kehrwoche</a></li>
+          <li><a href="leistungen.html#transporte">Entrümpelung &amp; Transporte</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4>Unternehmen</h4>
+        <ul>
+          <li><a href="hausverwaltungen.html">Für Hausverwaltungen</a></li>
+          <li><a href="nachunternehmer.html">Für Elektro- &amp; Baubetriebe</a></li>
+          <li><a href="ueber-uns.html">Über uns</a></li>
+          <li><a href="kontakt.html">Kontakt</a></li>
+          <li><a href="kontakt.html#angebot">Angebot anfordern</a></li>
+          <li><a href="impressum.html">Impressum</a></li>
+          <li><a href="datenschutz.html">Datenschutz</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h4>Kontakt</h4>
+        <ul>
+          <li>Tonweg 8<br>71229 Leonberg-Höfingen</li>
+          <li><a href="tel:+491796957453">0179 6957453</a></li>
+          <li style="overflow-wrap:anywhere"><a href="mailto:Info.ska.gebaudeservice@gmail.com">Info.ska.gebaudeservice@gmail.com</a></li>
+          <li><a href="https://wa.me/491796957453" rel="noopener">WhatsApp-Anfrage</a></li>
+          <li style="margin-top:14px">Mo–Fr 08:00–18:00<br>Sa 08:00–14:30<br>So geschlossen</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer__bottom">
+      <div>&copy; <span data-year>2026</span> SKA Gebäudeservice — Alle Rechte vorbehalten.</div>
+      <div>
+        <a href="impressum.html">Impressum</a>
+        <a href="datenschutz.html">Datenschutz</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<div class="sticky-cta">
+  <a class="btn btn--ghost" href="tel:+491796957453">Anrufen</a>
+  <a class="btn btn--primary" href="kontakt.html#angebot">Angebot anfordern</a>
+</div>
+
+<!-- ============ WhatsApp-Direktkontakt ============ -->
+<div class="wa" data-wa-root>
+  <div class="wa__panel" id="wa-panel" role="dialog" tabindex="-1" aria-label="Nachricht über WhatsApp senden" hidden>
+    <div class="wa__head">
+      <span class="wa__avatar" aria-hidden="true">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M17.5 14.4c-.3-.2-1.8-.9-2-1-.3-.1-.5-.2-.7.1l-.9 1.1c-.2.2-.3.2-.6.1-1.6-.8-2.7-1.5-3.8-3.4-.3-.5.3-.5.8-1.5.1-.2 0-.4 0-.5l-1-2.3c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-1 1-1.2 2.3-.7 3.7.9 2.5 2.6 4.5 5 5.7 2.1 1 3.1 1 4.2.8.6-.1 1.8-.7 2-1.5.3-.7.3-1.4.2-1.5-.1-.1-.3-.2-.6-.3z"/><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2c-1.5 0-3-.4-4.3-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2z"/></svg>
+      </span>
+      <span>
+        <b>SKA Gebäudeservice</b>
+        <span class="wa__status" data-open-status>Antwort meist am nächsten Werktag</span>
+      </span>
+      <button class="wa__close" type="button" data-wa-close aria-label="Schließen">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </div>
+
+    <p class="wa__intro">Wählen Sie ein Thema — die Nachricht ist dann schon vorgeschrieben. Fotos vom Objekt können Sie direkt anhängen.</p>
+
+    <div class="wa__list">
+      <button class="wa__opt" type="button" data-wa-text="Hallo SKA Gebäudeservice, ich hätte gern ein unverbindliches Angebot.&#10;&#10;Objekt/Adresse: &#10;Gewünschte Leistung: ">
+        <span>Angebot anfordern</span><small>Kostenlos und unverbindlich</small>
+      </button>
+      <button class="wa__opt" type="button" data-wa-text="Hallo SKA Gebäudeservice, ich suche einen Hausmeisterservice.&#10;&#10;Objekt/Adresse: &#10;Anzahl Parteien: &#10;Gewünschter Rhythmus: ">
+        <span>Hausmeisterservice</span><small>Laufende Betreuung</small>
+      </button>
+      <button class="wa__opt" type="button" data-wa-text="Hallo SKA Gebäudeservice, ich interessiere mich für den Winterdienst.&#10;&#10;Objekt/Adresse: &#10;Zu räumende Fläche: ">
+        <span>Winterdienst</span><small>Räum- und Streudienst</small>
+      </button>
+      <button class="wa__opt" type="button" data-wa-text="Hallo SKA Gebäudeservice, bitte rufen Sie mich zurück.&#10;&#10;Name: &#10;Erreichbar: ">
+        <span>Rückruf erbitten</span><small>Wir melden uns telefonisch</small>
+      </button>
+      <button class="wa__opt wa__opt--plain" type="button" data-wa-text="Hallo SKA Gebäudeservice, ">
+        <span>Eigene Nachricht schreiben</span>
+      </button>
+    </div>
+
+    <p class="wa__note">Es öffnet sich WhatsApp — gesendet wird erst, wenn Sie dort auf Senden tippen.
+      Lieber telefonisch? <a href="tel:+491796957453">0179 6957453</a></p>
+  </div>
+
+  <button class="wa__fab" type="button" data-wa-toggle aria-expanded="false" aria-controls="wa-panel"
+          aria-label="Über WhatsApp Kontakt aufnehmen">
+    <svg class="wa__icon" width="30" height="30" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M17.5 14.4c-.3-.2-1.8-.9-2-1-.3-.1-.5-.2-.7.1l-.9 1.1c-.2.2-.3.2-.6.1-1.6-.8-2.7-1.5-3.8-3.4-.3-.5.3-.5.8-1.5.1-.2 0-.4 0-.5l-1-2.3c-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-1 1-1.2 2.3-.7 3.7.9 2.5 2.6 4.5 5 5.7 2.1 1 3.1 1 4.2.8.6-.1 1.8-.7 2-1.5.3-.7.3-1.4.2-1.5-.1-.1-.3-.2-.6-.3z"/>
+      <path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2c-1.5 0-3-.4-4.3-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2z"/>
+    </svg>
+    <svg class="wa__x" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    <span class="wa__bubble" aria-hidden="true">Direkt schreiben</span>
+  </button>
+</div>
+
+<script src="assets/js/main.js" defer></script>

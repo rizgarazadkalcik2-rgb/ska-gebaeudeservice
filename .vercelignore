@@ -1,0 +1,9 @@
+# Quelldateien und Archiv gehören nicht auf den Server
+src/
+_partials/
+_archiv/
+_google-profil/
+build.sh
+logo-einsetzen.sh
+README.md
+.gitignore
