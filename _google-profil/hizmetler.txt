@@ -1,30 +1,91 @@
-Google-Profil → "Hizmeti düzenleyin" → diese Leistungen einzeln anlegen:
+Google-Profil → Leistungen → „Benutzerdefinierte Leistung hinzufügen“
+Jede Leistung einzeln: Name (max. 140 Zeichen) + Beschreibung (max. 300 Zeichen).
 
-Elektroarbeiten
-Elektro-Notdienst
-Steckdosen und Schalter
-Beleuchtung und Leuchtenmontage
-Verteiler und Sicherungskasten
-Kabelverlegung
-Kabelkanäle und Leerrohre
-Wallbox-Montage
-Möbelmontage
-Küchenmontage
-TV-Halterung montieren
-Markisen und Rollos montieren
-Reparaturen im Haus
-Wohnungsrenovierung
-Trockenbau
-Malerarbeiten
-Tapezierarbeiten
-Hausmeisterservice
-Treppenhausreinigung
-Gartenpflege
-Heckenschnitt
-Rasenmähen
-Laubbeseitigung
-Winterdienst
-Schneeräumung
-Streudienst
-Entrümpelung
-Kleintransporte
+
+── ELEKTRO ───────────────────────────────────────────
+ 1. Elektroarbeiten
+    Kleinere Elektroarbeiten im Haus: Leuchten, Schalter und Steckdosen tauschen, Leitungen verlegen, Fehler eingrenzen. Anschluss und Abnahme nach VDE übernimmt unser eingetragener Partner-Elektrofachbetrieb.
+    (205/300)
+ 2. Elektro-Notdienst
+    Rund um die Uhr erreichbar bei Stromausfall, ausgelöster Sicherung oder defekten Leitungen. Bei Rauch oder Funken zuerst 112 anrufen. Anschluss und Abnahme nach VDE übernimmt unser eingetragener Partner-Elektrofachbetrieb.
+    (222/300)
+ 3. Beleuchtung und Leuchtenmontage
+    Montage von Decken-, Wand- und Außenleuchten sowie LED-Umrüstung in Wohnung, Treppenhaus und Außenbereich. Anschluss und Abnahme nach VDE übernimmt unser eingetragener Partner-Elektrofachbetrieb.
+    (195/300)
+ 4. Kabelverlegung
+    Verlegen von Kabeln und Leitungen in Kabelkanälen, Leerrohren und auf Putz, sauber und nach Absprache.
+    (102/300)
+ 5. Kabelkanäle und Leerrohre
+    Montage von Kabelkanälen, Kabelrinnen und Leerrohren, z. B. als Vorbereitung für Wallbox, PV-Anlage oder Netzwerk.
+    (114/300)
+ 6. Wallbox-Montage
+    Mechanische Montage der Wallbox und Verlegung der Leitungstrasse. Anmeldung beim Netzbetreiber, Anschluss und Prüfung übernimmt unser eingetragener Partner-Elektrofachbetrieb.
+    (175/300)
+
+── MONTAGE UND REPARATUR ─────────────────────────────
+ 7. Möbelmontage
+    Aufbau und Montage von Möbeln, Schränken und Regalen, inklusive Wandbefestigung.
+    (80/300)
+ 8. Küchenmontage
+    Aufbau von Küchenmöbeln, Arbeitsplatten und Oberschränken. Elektro- und Wasseranschluss nur durch den jeweiligen Fachbetrieb.
+    (125/300)
+ 9. TV-Halterung montieren
+    Fernseher sicher an der Wand befestigen, Kabel sauber im Kanal verlegen.
+    (72/300)
+10. Markisen und Rollos montieren
+    Montage von Markisen, Rollos, Plissees und Insektenschutz.
+    (58/300)
+11. Reparaturen im Haus
+    Kleinreparaturen an Türen, Fenstern, Beschlägen und Einrichtung, schnell und unkompliziert.
+    (91/300)
+12. Wohnungsrenovierung
+    Renovierung bei Auszug, Einzug oder Mieterwechsel: Maler-, Trockenbau- und Montagearbeiten aus einer Hand.
+    (106/300)
+13. Trockenbau
+    Trennwände, Vorsatzschalen, abgehängte Decken und Verkleidungen in Trockenbauweise.
+    (83/300)
+
+── MALER ─────────────────────────────────────────────
+14. Malerarbeiten
+    Wände und Decken streichen, Innenräume und Treppenhäuser, sauber abgedeckt und termintreu.
+    (90/300)
+15. Tapezierarbeiten
+    Tapeten entfernen, Untergrund vorbereiten, neu tapezieren und streichen.
+    (72/300)
+
+── HAUSMEISTER, GARTEN, WINTER ───────────────────────
+16. Hausmeisterservice
+    Regelmäßige Betreuung von Wohn- und Gewerbeobjekten für Eigentümer und Hausverwaltungen: Kontrollgänge, Kleinreparaturen, Außenanlagen.
+    (135/300)
+17. Treppenhausreinigung
+    Regelmäßige Reinigung von Treppenhäusern und Gemeinschaftsflächen, auch als Ersatz für die Kehrwoche.
+    (101/300)
+18. Gartenpflege
+    Laufende Pflege von Gärten und Außenanlagen für Privatkunden und Hausverwaltungen.
+    (82/300)
+19. Heckenschnitt
+    Form- und Rückschnitt von Hecken und Sträuchern, inklusive Abtransport des Schnittguts.
+    (87/300)
+20. Rasenmähen
+    Regelmäßiges Mähen und Pflegen von Rasenflächen.
+    (48/300)
+21. Laubbeseitigung
+    Laub von Wegen, Rasen und Einfahrten entfernen und entsorgen.
+    (61/300)
+22. Winterdienst
+    Räum- und Streudienst für Gehwege, Einfahrten und Parkflächen, als Saisonvertrag oder Einzeleinsatz.
+    (100/300)
+23. Schneeräumung
+    Schnee räumen auf Gehwegen, Zufahrten und Stellplätzen, früh am Morgen vor Beginn der Räumpflicht.
+    (98/300)
+24. Streudienst
+    Streuen bei Glätte, damit Ihre Räum- und Streupflicht zuverlässig erfüllt ist.
+    (78/300)
+
+── SONSTIGES ─────────────────────────────────────────
+25. Entrümpelung
+    Entrümpelung von Keller, Dachboden, Garage und Wohnung, inklusive Abtransport.
+    (78/300)
+26. Kleintransporte
+    Kleintransporte bis 750 kg Nutzlast, z. B. Möbel oder Material, keine Umzüge.
+    (77/300)
